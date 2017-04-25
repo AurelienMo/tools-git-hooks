@@ -4,7 +4,7 @@
 Global install required with standard Symfony2
 
 **phpmd**  
-Global install with all ruleset at this [url](https://gitlab.com/morvan.aurelien/Utils/tree/master/Config/phpmd)
+Global install with all ruleset at this [url](https://github.com/AurelienMo/tools-phpmd)
 
 **phpunit**  
 Install from vendor
